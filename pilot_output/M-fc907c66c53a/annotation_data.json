@@ -1,0 +1,328 @@
+{
+  "video_id": "M-fc907c66c53a",
+  "title": "M-fc907c66c53a",
+  "category": "新样本",
+  "total_seconds": 40,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "一天不擦防晒",
+      "composite_score": 9.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "七天的护肤都等",
+      "composite_score": 9.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "于白搭了平",
+      "composite_score": 9.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "时懒得化妆的姐妹",
+      "composite_score": 7.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "你可以试一下",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "欧莱雅这款小",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "金管防晒",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "我自己是用了好",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "多年的时间了它这",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "款防晒呢非常适合",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "懒人姐妹来用",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "的能够替代你的",
+      "composite_score": 2.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "妆前隔离",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "素颜霜而且",
+      "composite_score": 1.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "还能帮你养肤",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "帮你高倍防",
+      "composite_score": 2.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "晒还能保湿",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "三效合一的防晒",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "霜哈里面还添",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "加了腺苷和玻",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "尿酸就是能",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "帮你做补水保",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "湿它上脸是",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "那种乳液质地",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "很好推",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "开推开以后我给你看一",
+      "composite_score": 1.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "下肌肤状态上脸",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "是那种又透",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "又亮有光泽的效",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "果他们家现在",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "是买一组整",
+      "composite_score": 6.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "整发三瓶半",
+      "composite_score": 8.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "的量额外送你一个",
+      "composite_score": 8.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "夏天也非常实",
+      "composite_score": 8.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "用的这个防晒帽",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "但是这个",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "机制好像送几天就",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "不送了夏天马",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "上到了赶紧去直",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "播间囤一单",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-fc907c66c53a/thumbnails/t_040.jpg"
+    }
+  ]
+}

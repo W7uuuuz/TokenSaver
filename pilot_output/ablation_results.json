@@ -1,0 +1,100 @@
+{
+  "variants": [
+    "Full Pipeline",
+    "-Coupling Boost",
+    "-Adaptive lambda (l=0.7)",
+    "-Scene Boost",
+    "Top-K (no MMR)",
+    "Text-Only (no visual)"
+  ],
+  "base_f1": {
+    "10": 0.508,
+    "20": 0.8200000000000001
+  },
+  "per_variant": {
+    "Full Pipeline": {
+      "10": {
+        "avg_f1": 0.508,
+        "avg_precision": 0.7875000000000001,
+        "avg_recall": 0.384,
+        "avg_spread": 4.3375
+      },
+      "20": {
+        "avg_f1": 0.8200000000000001,
+        "avg_precision": 0.84375,
+        "avg_recall": 0.829375,
+        "avg_spread": 2.1875
+      }
+    },
+    "-Coupling Boost": {
+      "10": {
+        "avg_f1": 0.544625,
+        "avg_precision": 0.8375,
+        "avg_recall": 0.412875,
+        "avg_spread": 3.7625
+      },
+      "20": {
+        "avg_f1": 0.8305,
+        "avg_precision": 0.85625,
+        "avg_recall": 0.8392499999999999,
+        "avg_spread": 2.0999999999999996
+      }
+    },
+    "-Adaptive lambda (l=0.7)": {
+      "10": {
+        "avg_f1": 0.508,
+        "avg_precision": 0.7875000000000001,
+        "avg_recall": 0.384,
+        "avg_spread": 4.3375
+      },
+      "20": {
+        "avg_f1": 0.8200000000000001,
+        "avg_precision": 0.84375,
+        "avg_recall": 0.829375,
+        "avg_spread": 2.1875
+      }
+    },
+    "-Scene Boost": {
+      "10": {
+        "avg_f1": 0.5121249999999999,
+        "avg_precision": 0.8,
+        "avg_recall": 0.38649999999999995,
+        "avg_spread": 4.625
+      },
+      "20": {
+        "avg_f1": 0.799375,
+        "avg_precision": 0.825,
+        "avg_recall": 0.8063750000000001,
+        "avg_spread": 2.3875
+      }
+    },
+    "Top-K (no MMR)": {
+      "10": {
+        "avg_f1": 0.531875,
+        "avg_precision": 0.825,
+        "avg_recall": 0.402625,
+        "avg_spread": 5.35
+      },
+      "20": {
+        "avg_f1": 0.82375,
+        "avg_precision": 0.85,
+        "avg_recall": 0.832,
+        "avg_spread": 2.4875
+      }
+    },
+    "Text-Only (no visual)": {
+      "10": {
+        "avg_f1": 0.52425,
+        "avg_precision": 0.8125,
+        "avg_recall": 0.396125,
+        "avg_spread": 4.475
+      },
+      "20": {
+        "avg_f1": 0.7991250000000001,
+        "avg_precision": 0.825,
+        "avg_recall": 0.804625,
+        "avg_spread": 2.4625
+      }
+    }
+  }
+}

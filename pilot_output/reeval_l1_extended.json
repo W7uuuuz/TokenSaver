@@ -1,0 +1,506 @@
+[
+ {
+  "video": "M-13ead59e0125",
+  "vtype": "oral",
+  "priority": "visual",
+  "duration": 38,
+  "budget": 26,
+  "n_ts": 20,
+  "key_n": 19,
+  "ts": {
+   "f1": 0.8717948717948718,
+   "precision": 0.85,
+   "recall": 0.8947368421052632,
+   "n": 20,
+   "matched": 17
+  },
+  "uniform": {
+   "f1": 0.9743589743589743,
+   "precision": 0.95,
+   "recall": 1.0,
+   "n": 20,
+   "matched": 19
+  },
+  "delta": -0.1026
+ },
+ {
+  "video": "M-16ef9e2d688a",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 91,
+  "budget": 63,
+  "n_ts": 56,
+  "key_n": 24,
+  "ts": {
+   "f1": 0.6,
+   "precision": 0.42857142857142855,
+   "recall": 1.0,
+   "n": 56,
+   "matched": 24
+  },
+  "uniform": {
+   "f1": 0.6,
+   "precision": 0.42857142857142855,
+   "recall": 1.0,
+   "n": 56,
+   "matched": 24
+  },
+  "delta": 0.0
+ },
+ {
+  "video": "M-21dd90cdfb17",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 31,
+  "budget": 21,
+  "n_ts": 18,
+  "key_n": 15,
+  "ts": {
+   "f1": 0.7878787878787877,
+   "precision": 0.7222222222222222,
+   "recall": 0.8666666666666667,
+   "n": 18,
+   "matched": 13
+  },
+  "uniform": {
+   "f1": 0.9090909090909091,
+   "precision": 0.8333333333333334,
+   "recall": 1.0,
+   "n": 18,
+   "matched": 15
+  },
+  "delta": -0.1212
+ },
+ {
+  "video": "M-29b5fbaa2b08",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 36,
+  "budget": 25,
+  "n_ts": 19,
+  "key_n": 13,
+  "ts": {
+   "f1": 0.8125000000000001,
+   "precision": 0.6842105263157895,
+   "recall": 1.0,
+   "n": 19,
+   "matched": 13
+  },
+  "uniform": {
+   "f1": 0.8125000000000001,
+   "precision": 0.6842105263157895,
+   "recall": 1.0,
+   "n": 19,
+   "matched": 13
+  },
+  "delta": 0.0
+ },
+ {
+  "video": "M-2c696f4a9877",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 31,
+  "budget": 21,
+  "n_ts": 18,
+  "key_n": 10,
+  "ts": {
+   "f1": 0.6428571428571429,
+   "precision": 0.5,
+   "recall": 0.9,
+   "n": 18,
+   "matched": 9
+  },
+  "uniform": {
+   "f1": 0.7142857142857143,
+   "precision": 0.5555555555555556,
+   "recall": 1.0,
+   "n": 18,
+   "matched": 10
+  },
+  "delta": -0.0714
+ },
+ {
+  "video": "M-443188070671",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 50,
+  "budget": 35,
+  "n_ts": 32,
+  "key_n": 19,
+  "ts": {
+   "f1": 0.5490196078431372,
+   "precision": 0.4375,
+   "recall": 0.7368421052631579,
+   "n": 32,
+   "matched": 14
+  },
+  "uniform": {
+   "f1": 0.7450980392156863,
+   "precision": 0.59375,
+   "recall": 1.0,
+   "n": 32,
+   "matched": 19
+  },
+  "delta": -0.1961
+ },
+ {
+  "video": "M-528bfe313870",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 55,
+  "budget": 38,
+  "n_ts": 34,
+  "key_n": 24,
+  "ts": {
+   "f1": 0.7931034482758621,
+   "precision": 0.6764705882352942,
+   "recall": 0.9583333333333334,
+   "n": 34,
+   "matched": 23
+  },
+  "uniform": {
+   "f1": 0.8275862068965517,
+   "precision": 0.7058823529411765,
+   "recall": 1.0,
+   "n": 34,
+   "matched": 24
+  },
+  "delta": -0.0345
+ },
+ {
+  "video": "M-720f4960f5ed",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 48,
+  "budget": 33,
+  "n_ts": 27,
+  "key_n": 25,
+  "ts": {
+   "f1": 0.923076923076923,
+   "precision": 0.8888888888888888,
+   "recall": 0.96,
+   "n": 27,
+   "matched": 24
+  },
+  "uniform": {
+   "f1": 0.9615384615384615,
+   "precision": 0.9259259259259259,
+   "recall": 1.0,
+   "n": 27,
+   "matched": 25
+  },
+  "delta": -0.0385
+ },
+ {
+  "video": "M-782f8ea8c442",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 40,
+  "budget": 28,
+  "n_ts": 23,
+  "key_n": 14,
+  "ts": {
+   "f1": 0.7567567567567568,
+   "precision": 0.6086956521739131,
+   "recall": 1.0,
+   "n": 23,
+   "matched": 14
+  },
+  "uniform": {
+   "f1": 0.7567567567567568,
+   "precision": 0.6086956521739131,
+   "recall": 1.0,
+   "n": 23,
+   "matched": 14
+  },
+  "delta": 0.0
+ },
+ {
+  "video": "M-84e1d947b553",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 46,
+  "budget": 32,
+  "n_ts": 26,
+  "key_n": 23,
+  "ts": {
+   "f1": 0.8163265306122449,
+   "precision": 0.7692307692307693,
+   "recall": 0.8695652173913043,
+   "n": 26,
+   "matched": 20
+  },
+  "uniform": {
+   "f1": 0.9387755102040816,
+   "precision": 0.8846153846153846,
+   "recall": 1.0,
+   "n": 26,
+   "matched": 23
+  },
+  "delta": -0.1224
+ },
+ {
+  "video": "M-93435751b184",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 39,
+  "budget": 27,
+  "n_ts": 22,
+  "key_n": 17,
+  "ts": {
+   "f1": 0.8205128205128205,
+   "precision": 0.7272727272727273,
+   "recall": 0.9411764705882353,
+   "n": 22,
+   "matched": 16
+  },
+  "uniform": {
+   "f1": 0.8717948717948718,
+   "precision": 0.7727272727272727,
+   "recall": 1.0,
+   "n": 22,
+   "matched": 17
+  },
+  "delta": -0.0513
+ },
+ {
+  "video": "M-9a12ab3f34c9",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 111,
+  "budget": 77,
+  "n_ts": 69,
+  "key_n": 30,
+  "ts": {
+   "f1": 0.6060606060606061,
+   "precision": 0.43478260869565216,
+   "recall": 1.0,
+   "n": 69,
+   "matched": 30
+  },
+  "uniform": {
+   "f1": 0.6060606060606061,
+   "precision": 0.43478260869565216,
+   "recall": 1.0,
+   "n": 69,
+   "matched": 30
+  },
+  "delta": 0.0
+ },
+ {
+  "video": "M-9e447c56b729",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 52,
+  "budget": 36,
+  "n_ts": 28,
+  "key_n": 24,
+  "ts": {
+   "f1": 0.7692307692307692,
+   "precision": 0.7142857142857143,
+   "recall": 0.8333333333333334,
+   "n": 28,
+   "matched": 20
+  },
+  "uniform": {
+   "f1": 0.923076923076923,
+   "precision": 0.8571428571428571,
+   "recall": 1.0,
+   "n": 28,
+   "matched": 24
+  },
+  "delta": -0.1538
+ },
+ {
+  "video": "M-9e5b204d4fa5",
+  "vtype": "oral",
+  "priority": "visual",
+  "duration": 39,
+  "budget": 27,
+  "n_ts": 24,
+  "key_n": 19,
+  "ts": {
+   "f1": 0.7906976744186046,
+   "precision": 0.7083333333333334,
+   "recall": 0.8947368421052632,
+   "n": 24,
+   "matched": 17
+  },
+  "uniform": {
+   "f1": 0.8837209302325582,
+   "precision": 0.7916666666666666,
+   "recall": 1.0,
+   "n": 24,
+   "matched": 19
+  },
+  "delta": -0.093
+ },
+ {
+  "video": "M-9f811b808555",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 91,
+  "budget": 63,
+  "n_ts": 56,
+  "key_n": 23,
+  "ts": {
+   "f1": 0.5316455696202531,
+   "precision": 0.375,
+   "recall": 0.9130434782608695,
+   "n": 56,
+   "matched": 21
+  },
+  "uniform": {
+   "f1": 0.5822784810126582,
+   "precision": 0.4107142857142857,
+   "recall": 1.0,
+   "n": 56,
+   "matched": 23
+  },
+  "delta": -0.0506
+ },
+ {
+  "video": "M-b22d611e2038",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 23,
+  "budget": 16,
+  "n_ts": 14,
+  "key_n": 14,
+  "ts": {
+   "f1": 1.0,
+   "precision": 1.0,
+   "recall": 1.0,
+   "n": 14,
+   "matched": 14
+  },
+  "uniform": {
+   "f1": 1.0,
+   "precision": 1.0,
+   "recall": 1.0,
+   "n": 14,
+   "matched": 14
+  },
+  "delta": 0.0
+ },
+ {
+  "video": "M-bbf4b6261479",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 24,
+  "budget": 16,
+  "n_ts": 15,
+  "key_n": 16,
+  "ts": {
+   "f1": 0.967741935483871,
+   "precision": 1.0,
+   "recall": 0.9375,
+   "n": 15,
+   "matched": 15
+  },
+  "uniform": {
+   "f1": 1.0322580645161292,
+   "precision": 1.0666666666666667,
+   "recall": 1.0,
+   "n": 15,
+   "matched": 16
+  },
+  "delta": -0.0645
+ },
+ {
+  "video": "M-d012fac68e61",
+  "vtype": "oral",
+  "priority": "balanced",
+  "duration": 82,
+  "budget": 57,
+  "n_ts": 49,
+  "key_n": 39,
+  "ts": {
+   "f1": 0.8636363636363635,
+   "precision": 0.7755102040816326,
+   "recall": 0.9743589743589743,
+   "n": 49,
+   "matched": 38
+  },
+  "uniform": {
+   "f1": 0.8863636363636364,
+   "precision": 0.7959183673469388,
+   "recall": 1.0,
+   "n": 49,
+   "matched": 39
+  },
+  "delta": -0.0227
+ },
+ {
+  "video": "M-e74cdc74c49c",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 20,
+  "budget": 14,
+  "n_ts": 12,
+  "key_n": 9,
+  "ts": {
+   "f1": 0.8571428571428571,
+   "precision": 0.75,
+   "recall": 1.0,
+   "n": 12,
+   "matched": 9
+  },
+  "uniform": {
+   "f1": 0.8571428571428571,
+   "precision": 0.75,
+   "recall": 1.0,
+   "n": 12,
+   "matched": 9
+  },
+  "delta": 0.0
+ },
+ {
+  "video": "M-f7eb95196c5f",
+  "vtype": "oral",
+  "priority": "visual",
+  "duration": 44,
+  "budget": 30,
+  "n_ts": 27,
+  "key_n": 24,
+  "ts": {
+   "f1": 0.8627450980392156,
+   "precision": 0.8148148148148148,
+   "recall": 0.9166666666666666,
+   "n": 27,
+   "matched": 22
+  },
+  "uniform": {
+   "f1": 0.9411764705882353,
+   "precision": 0.8888888888888888,
+   "recall": 1.0,
+   "n": 27,
+   "matched": 24
+  },
+  "delta": -0.0784
+ },
+ {
+  "video": "M-fc907c66c53a",
+  "vtype": "oral",
+  "priority": "speech",
+  "duration": 40,
+  "budget": 28,
+  "n_ts": 25,
+  "key_n": 11,
+  "ts": {
+   "f1": 0.5555555555555556,
+   "precision": 0.4,
+   "recall": 0.9090909090909091,
+   "n": 25,
+   "matched": 10
+  },
+  "uniform": {
+   "f1": 0.6111111111111112,
+   "precision": 0.44,
+   "recall": 1.0,
+   "n": 25,
+   "matched": 11
+  },
+  "delta": -0.0556
+ }
+]

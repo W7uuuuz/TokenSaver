@@ -1,0 +1,736 @@
+{
+  "video_id": "M-9f811b808555",
+  "title": "M-9f811b808555",
+  "category": "新样本",
+  "total_seconds": 91,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "你要是下个月啊",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "再来买这把刀",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "那可真的不划",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "算了啊因为",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "这次我们来到了",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "上海百货展",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "的展会现场一年",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "一度并且配",
+      "composite_score": 8.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "上我们张小",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "泉三百",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "九十七周年",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "庆的活动所以",
+      "composite_score": 8.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "说这次力度是真",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "的大配上我",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "们的老板亲自直",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "播呢呃",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "这把好刀三折",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "带走而且还送",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "多功能的强",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "力大剪刀拍",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "一发二还送三",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "十天的免费试",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "刀咱们这样现",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "场给大家切一刀感",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "受一下啊",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "因为这把刀呢是",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "我们历时两",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "年研发耗资",
+      "composite_score": 8.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "一个多亿联",
+      "composite_score": 8.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "合中德两德",
+      "composite_score": 9.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "技术重磅",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "推出的升级",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "黑武士斩切两用刀",
+      "composite_score": 6.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "它是我们采",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "用高端的马",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "氏体不锈钢",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "啊这个金刚",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "刃的材质所",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "以正常家用的一",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "年左右磨一次",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "持久锋利",
+      "composite_score": 7.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "黑色表面",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "电镀磨砂工艺",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "防生锈防粘",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "刀效果也非常好",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "刀身",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "刀柄我们都是一体",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "打造的三",
+      "composite_score": 7.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "个铆钉加固啊",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "碳化实木把",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "手握起来非常",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "舒服最",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_052.jpg"
+    },
+    {
+      "second": 52,
+      "text": "主要是非遗老师",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_053.jpg"
+    },
+    {
+      "second": 53,
+      "text": "傅手工精",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_054.jpg"
+    },
+    {
+      "second": 54,
+      "text": "磨开刃整个刀刃",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_055.jpg"
+    },
+    {
+      "second": 55,
+      "text": "能切后面还能",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_056.jpg"
+    },
+    {
+      "second": 56,
+      "text": "剁骨头剁鸡",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_057.jpg"
+    },
+    {
+      "second": 57,
+      "text": "剁鸭剁排骨剁",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_058.jpg"
+    },
+    {
+      "second": 58,
+      "text": "大鹅啊一把刀",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_059.jpg"
+    },
+    {
+      "second": 59,
+      "text": "就能搞定",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_060.jpg"
+    },
+    {
+      "second": 60,
+      "text": "咱这样现场给大家切",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_061.jpg"
+    },
+    {
+      "second": 61,
+      "text": "一刀感受一下啊",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_062.jpg"
+    },
+    {
+      "second": 62,
+      "text": "过个",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_063.jpg"
+    },
+    {
+      "second": 63,
+      "text": "纸筒",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_064.jpg"
+    },
+    {
+      "second": 64,
+      "text": "来块肉连",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_065.jpg"
+    },
+    {
+      "second": 65,
+      "text": "皮带筋那种滚刀肉",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_066.jpg"
+    },
+    {
+      "second": 66,
+      "text": "啊你就翘",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_067.jpg"
+    },
+    {
+      "second": 67,
+      "text": "个兰花指不用",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_068.jpg"
+    },
+    {
+      "second": 68,
+      "text": "去使劲看到没有",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_069.jpg"
+    },
+    {
+      "second": 69,
+      "text": "那刀往",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_070.jpg"
+    },
+    {
+      "second": 70,
+      "text": "肉里钻的感觉",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_071.jpg"
+    },
+    {
+      "second": 71,
+      "text": "跟切面团",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_072.jpg"
+    },
+    {
+      "second": 72,
+      "text": "一样肉皮啊都",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_073.jpg"
+    },
+    {
+      "second": 73,
+      "text": "不在话下",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_074.jpg"
+    },
+    {
+      "second": 74,
+      "text": "还能砍排",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_075.jpg"
+    },
+    {
+      "second": 75,
+      "text": "骨后面去砍",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_076.jpg"
+    },
+    {
+      "second": 76,
+      "text": "剁鸡剁鸭",
+      "composite_score": 2.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_077.jpg"
+    },
+    {
+      "second": 77,
+      "text": "剁排骨",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_078.jpg"
+    },
+    {
+      "second": 78,
+      "text": "手起刀",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_079.jpg"
+    },
+    {
+      "second": 79,
+      "text": "落而且看看刀刃",
+      "composite_score": 2.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_080.jpg"
+    },
+    {
+      "second": 80,
+      "text": "不卷刃不崩",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_081.jpg"
+    },
+    {
+      "second": 81,
+      "text": "口啊持久锋利",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_082.jpg"
+    },
+    {
+      "second": 82,
+      "text": "现在下",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_083.jpg"
+    },
+    {
+      "second": 83,
+      "text": "单还有活动来",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_084.jpg"
+    },
+    {
+      "second": 84,
+      "text": "到直播间说了一",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_085.jpg"
+    },
+    {
+      "second": 85,
+      "text": "百都不要三折",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_086.jpg"
+    },
+    {
+      "second": 86,
+      "text": "带走还送",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_087.jpg"
+    },
+    {
+      "second": 87,
+      "text": "多功能强力大",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_088.jpg"
+    },
+    {
+      "second": 88,
+      "text": "剪刀拍一发二",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_089.jpg"
+    },
+    {
+      "second": 89,
+      "text": "喜欢的点头像来",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_090.jpg"
+    },
+    {
+      "second": 90,
+      "text": "直播间",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9f811b808555/thumbnails/t_091.jpg"
+    }
+  ]
+}

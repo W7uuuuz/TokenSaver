@@ -1,0 +1,448 @@
+{
+  "video_id": "M-42198d98eb40",
+  "title": "M-42198d98eb40",
+  "category": "密集 (Dense)",
+  "total_seconds": 55,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "如果你冬天",
+      "composite_score": 8.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "需要新散粉",
+      "composite_score": 8.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "为什么不能是",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "我们卡扣的水",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "散粉呢年",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "少不知水散",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "粉好错把",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "干散粉当成",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "宝常年用干",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "散粉啊",
+      "composite_score": 7.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "直到遇",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "见它给大家示范",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "",
+      "composite_score": 7.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "",
+      "composite_score": 8.1,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "一下水散粉",
+      "composite_score": 7.9,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "的错误用法",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "直接这么拍是不",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "对的我也是用",
+      "composite_score": 7.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "了爆款水散粉",
+      "composite_score": 7.2,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "才知道它原",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "来贵到我都舍",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "不得买现在命",
+      "composite_score": 8.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "好赶上",
+      "composite_score": 7.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "了品牌方带来",
+      "composite_score": 7.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "的换季宠粉",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "活动买了七十九两",
+      "composite_score": 7.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "盒的充费量",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "以前一盒就要七",
+      "composite_score": 7.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "十九现在直",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "播间宠粉福利",
+      "composite_score": 7.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "新升级的精华",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "沁水散粉你",
+      "composite_score": 7.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "买一盒就送你",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "两盒同款",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "正装还送你便捷小",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "散粉卸妆湿",
+      "composite_score": 7.8,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "巾替换粉",
+      "composite_score": 7.7,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "扑它一到手这么",
+      "composite_score": 7.5,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "多飞米级粉",
+      "composite_score": 7.6,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "质添加百分之",
+      "composite_score": 8.0,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "五十水精华",
+      "composite_score": 8.0,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "上脸水水润润",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "每一次按压都",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "是在释放精华",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "把粉底和皮",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "肤均匀融合",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "让底妆牢",
+      "composite_score": 8.0,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "牢扒在脸上清",
+      "composite_score": 8.0,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "透奶油肌直接拿",
+      "composite_score": 8.1,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_052.jpg"
+    },
+    {
+      "second": 52,
+      "text": "下爱脱妆的姐",
+      "composite_score": 8.0,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_053.jpg"
+    },
+    {
+      "second": 53,
+      "text": "妹快来直",
+      "composite_score": 8.1,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_054.jpg"
+    },
+    {
+      "second": 54,
+      "text": "播间",
+      "composite_score": 8.1,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-42198d98eb40/thumbnails/t_055.jpg"
+    }
+  ]
+}

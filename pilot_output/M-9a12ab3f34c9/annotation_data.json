@@ -1,0 +1,896 @@
+{
+  "video_id": "M-9a12ab3f34c9",
+  "title": "M-9a12ab3f34c9",
+  "category": "混合 (Mixed)",
+  "total_seconds": 111,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "这个是去黄提",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "亮的",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "这个是改",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "善暗沉的",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "这是两个",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "细腻肌肤",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "素颜也好看的",
+      "composite_score": 6.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "是去黄",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "不是淡黄你",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "们看仔细了",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "别被别人割了韭菜",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "我刘娟",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "我刘毅只",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "有我们两个才",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "是这个烟酰胺凝胶",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "的源头厂家",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "你只有在我",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "们这里买到的才是",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "正品那",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "些无良商家",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "无良网红",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "你仿我的包装",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "仿我的样式",
+      "composite_score": 2.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "仿我的这个软管",
+      "composite_score": 2.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "你仿得了我",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "的配方吗吃",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "过亏上过当踩",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "过雷的人",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "家也不给你售后的姐",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "妹们你现在",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "直接进我白云",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "山烟酰胺官方",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "旗舰店",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "每个人免费",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "领取一支强力",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "版正品",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "透明凝胶状",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "的烟酰",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "胺拿回家试一下你",
+      "composite_score": 4.5,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "之前上过当",
+      "composite_score": 4.4,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "踩过雷的",
+      "composite_score": 4.1,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "啊抹完以后色",
+      "composite_score": 4.1,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "素堆积还在的",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "皮肤暗沉蜡黄还",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "在的姐妹都",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "可以点下方链接",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "进来领一支我",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "作为白云山烟",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "酰胺护肤的传承",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "人烟酰",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_052.jpg"
+    },
+    {
+      "second": 52,
+      "text": "胺凝胶销售榜的头",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_053.jpg"
+    },
+    {
+      "second": 53,
+      "text": "部今天我",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_054.jpg"
+    },
+    {
+      "second": 54,
+      "text": "对我全网一百",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_055.jpg"
+    },
+    {
+      "second": 55,
+      "text": "多万粉丝我再提",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_056.jpg"
+    },
+    {
+      "second": 56,
+      "text": "醒一遍我",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_057.jpg"
+    },
+    {
+      "second": 57,
+      "text": "只有这一个白云",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_058.jpg"
+    },
+    {
+      "second": 58,
+      "text": "山官方旗舰店",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_059.jpg"
+    },
+    {
+      "second": 59,
+      "text": "在售",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_060.jpg"
+    },
+    {
+      "second": 60,
+      "text": "只有我敢肯定的告",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_061.jpg"
+    },
+    {
+      "second": 61,
+      "text": "诉你我是刘",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_062.jpg"
+    },
+    {
+      "second": 62,
+      "text": "娟真正的源",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_063.jpg"
+    },
+    {
+      "second": 63,
+      "text": "头工厂真",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_064.jpg"
+    },
+    {
+      "second": 64,
+      "text": "正的烟酰胺凝胶",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_065.jpg"
+    },
+    {
+      "second": 65,
+      "text": "我从",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_066.jpg"
+    },
+    {
+      "second": 66,
+      "text": "事护肤品行业都",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_067.jpg"
+    },
+    {
+      "second": 67,
+      "text": "十六年了",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_068.jpg"
+    },
+    {
+      "second": 68,
+      "text": "我的产品是有自",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_069.jpg"
+    },
+    {
+      "second": 69,
+      "text": "己的工厂自己的研",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_070.jpg"
+    },
+    {
+      "second": 70,
+      "text": "发团队",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_071.jpg"
+    },
+    {
+      "second": 71,
+      "text": "如果你这个脸啊",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_072.jpg"
+    },
+    {
+      "second": 72,
+      "text": "总是暗沉蜡黄",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_073.jpg"
+    },
+    {
+      "second": 73,
+      "text": "手上一",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_074.jpg"
+    },
+    {
+      "second": 74,
+      "text": "摸哎全是皮",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_075.jpg"
+    },
+    {
+      "second": 75,
+      "text": "屑皮肤还",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_076.jpg"
+    },
+    {
+      "second": 76,
+      "text": "特别容易出油的",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_077.jpg"
+    },
+    {
+      "second": 77,
+      "text": "如果你有这些",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_078.jpg"
+    },
+    {
+      "second": 78,
+      "text": "情况呢你可以试",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_079.jpg"
+    },
+    {
+      "second": 79,
+      "text": "试我们这个白云山",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_080.jpg"
+    },
+    {
+      "second": 80,
+      "text": "烟酰胺凝胶在",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_081.jpg"
+    },
+    {
+      "second": 81,
+      "text": "哪里买不是买",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_082.jpg"
+    },
+    {
+      "second": 82,
+      "text": "为什么不在白",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_083.jpg"
+    },
+    {
+      "second": 83,
+      "text": "云山官方旗舰",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_084.jpg"
+    },
+    {
+      "second": 84,
+      "text": "店买这个烟酰胺凝",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_085.jpg"
+    },
+    {
+      "second": 85,
+      "text": "胶所有担心",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_086.jpg"
+    },
+    {
+      "second": 86,
+      "text": "怕踩坑的朋友",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_087.jpg"
+    },
+    {
+      "second": 87,
+      "text": "你现在点下方",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_088.jpg"
+    },
+    {
+      "second": 88,
+      "text": "链接拍",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_089.jpg"
+    },
+    {
+      "second": 89,
+      "text": "一支我再给",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_090.jpg"
+    },
+    {
+      "second": 90,
+      "text": "你送一支正装",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_091.jpg"
+    },
+    {
+      "second": 91,
+      "text": "这两支",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_092.jpg"
+    },
+    {
+      "second": 92,
+      "text": "是CP组合",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_093.jpg"
+    },
+    {
+      "second": 93,
+      "text": "那这一支呢",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_094.jpg"
+    },
+    {
+      "second": 94,
+      "text": "我可以让你先试",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_095.jpg"
+    },
+    {
+      "second": 95,
+      "text": "用七天",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_096.jpg"
+    },
+    {
+      "second": 96,
+      "text": "你不喜欢不满意",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_097.jpg"
+    },
+    {
+      "second": 97,
+      "text": "哪怕你拆",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_098.jpg"
+    },
+    {
+      "second": 98,
+      "text": "了用了都可以退",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_099.jpg"
+    },
+    {
+      "second": 99,
+      "text": "回来就是",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_100.jpg"
+    },
+    {
+      "second": 100,
+      "text": "让大家售后无忧",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_101.jpg"
+    },
+    {
+      "second": 101,
+      "text": "的所以真的",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_102.jpg"
+    },
+    {
+      "second": 102,
+      "text": "不用担心",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_103.jpg"
+    },
+    {
+      "second": 103,
+      "text": "这么贴心的国货",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_104.jpg"
+    },
+    {
+      "second": 104,
+      "text": "去哪里找是不",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_105.jpg"
+    },
+    {
+      "second": 105,
+      "text": "是但是",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_106.jpg"
+    },
+    {
+      "second": 106,
+      "text": "呢我们白云山这",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_107.jpg"
+    },
+    {
+      "second": 107,
+      "text": "个官方试用名额有",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_108.jpg"
+    },
+    {
+      "second": 108,
+      "text": "限啊来晚了就",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_109.jpg"
+    },
+    {
+      "second": 109,
+      "text": "没有了赶紧",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_110.jpg"
+    },
+    {
+      "second": 110,
+      "text": "进来看一下吧",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9a12ab3f34c9/thumbnails/t_111.jpg"
+    }
+  ]
+}

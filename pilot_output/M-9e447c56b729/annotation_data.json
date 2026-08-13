@@ -1,0 +1,424 @@
+{
+  "video_id": "M-9e447c56b729",
+  "title": "M-9e447c56b729",
+  "category": "新样本",
+  "total_seconds": 52,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "当你晚上十一点",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "肚子在咕咕",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "叫的时候",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "你就知道",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "冰箱里有这个",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "加热即食的佛跳",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "墙是件多",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "么幸福的事情",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "每一盒",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "佛跳墙都是",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "福建地道的口",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "味",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "像这种袋装",
+      "composite_score": 2.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "的佛跳墙",
+      "composite_score": 2.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "都是按照正宗",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "的佛跳墙配",
+      "composite_score": 0.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "方制作成",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "的",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "让你们不用特",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "意来福建",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "也能吃到正",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "宗的佛跳墙",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "像我",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "手里这款佛跳墙",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "好评回购率",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "都是非常高",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "里面的",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "海参鲍",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "鱼花胶都",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "非常大",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "而且啊全",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "部都是真材",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "实料",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "配料表很干",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "净没",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "有添加任何",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "添加剂和防腐",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "剂",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "带回家加热",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "十来分钟就",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "能吃了",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "老人小孩",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "一家老小都",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "很喜欢",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "进直播间还有",
+      "composite_score": 7.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "买八盒送",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "八盒的活动",
+      "composite_score": 7.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "拍一到手",
+      "composite_score": 7.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "十六盒",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "想吃的赶",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "紧进善食尊直播",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "间看看吧",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-9e447c56b729/thumbnails/t_052.jpg"
+    }
+  ]
+}

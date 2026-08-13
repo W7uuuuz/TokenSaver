@@ -1,0 +1,448 @@
+{
+  "video_id": "M-528bfe313870",
+  "title": "M-528bfe313870",
+  "category": "新样本",
+  "total_seconds": 55,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "你见过谁家一千",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "多的按摩椅",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "给你做零重力太空",
+      "composite_score": 7.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "悬浮升降",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "腰背腿艾草热灸",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "还有全身气",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "囊包裹奥克",
+      "composite_score": 1.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "斯这次新品活",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "动促销真",
+      "composite_score": 7.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "的是卷出新高度",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "不光只要一千",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "多还支",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "持顺丰包邮送入",
+      "composite_score": 7.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "户免费体验",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "来回运费全包",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "配置还做了全",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "新升级模拟",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "真人触感提拉抓",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "捏还支持",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "全程AI智能化",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "操控不挑使",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "用人群的同时",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "操作更简单方",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "便先",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "把按摩椅打开仿",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "真人手法按摩头",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "从头到脚全覆",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "盖搭配云",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "感气囊矩阵包",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "裹收缩头",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "部顶压肩",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "部指压",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "颈部顶揉",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "腰背掌捂脚",
+      "composite_score": 2.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "底刮痧",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "一键深V悬浮",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "躺平躺倒",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "漂浮在云端",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "连接蓝牙音乐",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "彻底享受居",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "家放松按摩",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "要是你还有久坐腰",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "背不适的情况",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "还能打开腰背腿",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "艾草热灸",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "源源不断的暖流",
+      "composite_score": 1.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "帮你驱散淤堵感",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "这里不累了",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "浑身都轻松了",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "趁现在活动",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "补贴价才一千多",
+      "composite_score": 9.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "直播间惊喜",
+      "composite_score": 8.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_052.jpg"
+    },
+    {
+      "second": 52,
+      "text": "福利不断拍一发",
+      "composite_score": 8.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_053.jpg"
+    },
+    {
+      "second": 53,
+      "text": "三赶紧点头",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_054.jpg"
+    },
+    {
+      "second": 54,
+      "text": "像进来看看吧",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-528bfe313870/thumbnails/t_055.jpg"
+    }
+  ]
+}

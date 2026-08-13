@@ -1,0 +1,26 @@
+# TokenSaver 研究目录——排除大二进制、临时文件与本地状态
+__pycache__/
+*.py[cod]
+.claude/
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.db
+.ipynb_checkpoints/
+
+# 版权敏感：提取音频、转写文本、论文交付（保留 requirements.txt）
+*.wav
+*.docx
+*.txt
+!pilot_round1/requirements.txt
+
+# ASR 转写缓存（含逐字稿 text/words/sentences）
+pilot_output/qwen_cache/
+pilot_output/asr_cache/
+
+# L2 评估原始输出（含 LLM 逐条回答，从转写派生）
+pilot_output/reeval_l2/
+
+# Round 1 原始数据（manifest 的 script 字段含转写、scripts/ 含逐字稿）
+round1/

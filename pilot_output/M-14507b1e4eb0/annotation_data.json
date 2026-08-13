@@ -1,0 +1,416 @@
+{
+  "video_id": "M-14507b1e4eb0",
+  "title": "M-14507b1e4eb0",
+  "category": "混合 (Mixed)",
+  "total_seconds": 51,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "吃点硬东西就牙",
+      "composite_score": 8.3,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "齿发飘那",
+      "composite_score": 6.9,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "你可要注意了我",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "给你推荐一个好东",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "西啊价格也就",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "是两位数这个啊",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "你先拿",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "回去刷七天",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "七天",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "啊就七天",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "相信我",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "来看",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "它这里啊",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "已经很坚固了",
+      "composite_score": 3.9,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "那效果能",
+      "composite_score": 3.4,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "那么好啊不是因",
+      "composite_score": 3.7,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "为我里面添加了什",
+      "composite_score": 3.6,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "么科技与狠活",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "啊而是",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "呢它这里面",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "添加了专供",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "机构做项目",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "的生物活性",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "玻璃它在进",
+      "composite_score": 4.5,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "入口腔之后呢逐",
+      "composite_score": 4.4,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "渐的结晶生",
+      "composite_score": 4.1,
+      "coupling_flag": true,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "成一层矿物质",
+      "composite_score": 3.9,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "那么这层矿物质",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "的成分与牙齿",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "本身是非常近",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "似的具有非常",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "好的相容性",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "你听我说啊",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "这个小东西它",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "是真的很牛",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "牙齿松动的",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "在它面前啊都",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "是小儿科要",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "还是担心啊说怕",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "踩坑的你",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "就来我直播间先",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "来领取一支正",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "装试用啊",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "到手呢也就两位",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "数拆了用",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "了不喜欢",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "不满意都能退",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "还有运费险",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "让大家呢没",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "有试错的成本",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-14507b1e4eb0/thumbnails/t_051.jpg"
+    }
+  ]
+}

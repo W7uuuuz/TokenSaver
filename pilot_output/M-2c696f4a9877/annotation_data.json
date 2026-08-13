@@ -1,0 +1,256 @@
+{
+  "video_id": "M-2c696f4a9877",
+  "title": "M-2c696f4a9877",
+  "category": "新样本",
+  "total_seconds": 31,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "你们买不起",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "我们卖不掉",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "所以我们砍",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "掉了中间商",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "其实桑葚",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "干在我们新疆",
+      "composite_score": 7.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "真的没那么贵",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "尤其像咱",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "们结过婚以后",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "一口枸杞",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "喝不了一口",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "肥肉也吃不了的",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "这个都",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "是新疆吐鲁番的头",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "茬黑桑葚",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "都是原果晾晒",
+      "composite_score": 2.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "的干干净",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "净还没有沙",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "子不需要洗",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "而且它",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "里面的营养要比枸",
+      "composite_score": 6.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "杞肉高出很",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "多倍",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "嗯",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "吃起来软糯",
+      "composite_score": 7.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "甘甜特别好",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "吃如果你",
+      "composite_score": 6.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "也喜欢这种品质",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "赶紧点我头",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "像来看看吧",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-2c696f4a9877/thumbnails/t_031.jpg"
+    }
+  ]
+}

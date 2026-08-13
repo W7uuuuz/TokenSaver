@@ -1,0 +1,400 @@
+{
+  "video_id": "M-720f4960f5ed",
+  "title": "M-720f4960f5ed",
+  "category": "混合 (Mixed)",
+  "total_seconds": 49,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "哎",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "我也不想",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "买啊可",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "是它真的太",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "好用了打开",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "的第一眼我就被",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "惊艳到了我",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "完全没有想到",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "这口张师",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "傅的大肚锅",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "会成为我们",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "家使用率特",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "别高的一款锅",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "它拿到手不",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "用开锅清",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "洗一下就可以直",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "接使用能用",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "钢铲钢丝",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "球肚大锅深",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "的设计造",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "型可爱关",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "键还不会粘",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "锅煎",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "炒",
+      "composite_score": 7.4,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "蒸",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "炸炸样",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "样都行而",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "且不易崩油",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "溅油几乎",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "没有油烟",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "颠锅翻炒",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "更加顺畅",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "还能一锅多",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "用燃气灶",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "电磁炉都好",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "用您家要",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "是缺一口好锅",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "记住锁定",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "张师傅的直",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "播间三",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "五百的品质",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "直播一",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "百出头而且",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "我们的",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "福利",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "发不停",
+      "composite_score": 8.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "记得点",
+      "composite_score": 7.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "头像进直",
+      "composite_score": 7.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "播间",
+      "composite_score": 7.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-720f4960f5ed/thumbnails/t_049.jpg"
+    }
+  ]
+}

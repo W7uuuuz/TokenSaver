@@ -1,0 +1,8 @@
+# Token-Saver Round 1 Pilot — Dependencies
+# Install: pip install -r pilot_round1/requirements.txt
+
+numpy>=1.24
+opencv-python>=4.8
+jieba>=0.42
+openai-whisper>=20231117
+matplotlib>=3.7

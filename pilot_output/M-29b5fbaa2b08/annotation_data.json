@@ -1,0 +1,296 @@
+{
+  "video_id": "M-29b5fbaa2b08",
+  "title": "M-29b5fbaa2b08",
+  "category": "新样本",
+  "total_seconds": 36,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "来家人们",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "这款锅呢就是我们",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "家卖爆的一个铁",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "锅生铁",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "铸铁锅十九",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "叔的生铁",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "锅啊这",
+      "composite_score": 8.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "口锅呢它是",
+      "composite_score": 8.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "做到一个加固防滑",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "底的",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "底部是菱花",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "形底部的",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "美观大气",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "而且今天呢",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "我们是有福",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "利的",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "给到你们拍",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "一发三",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "有锅有",
+      "composite_score": 2.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "盖有",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "铲子",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "那个锅盖",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "啊它是高空",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "掉下来呢",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "一样能",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "做到不会",
+      "composite_score": 6.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "爆的",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "如果说您想要",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "买一口健",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "康好用的",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "铁锅的",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "您可以点进我",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "们的头像来",
+      "composite_score": 1.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "我的直播间",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "了解清楚",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "再购买",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-29b5fbaa2b08/thumbnails/t_036.jpg"
+    }
+  ]
+}

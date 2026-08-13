@@ -1,0 +1,112 @@
+{
+  "10": {
+    "per_video": [
+      {
+        "video_id": "M-14507b1e4eb0",
+        "ts_simp_f1": 0.5,
+        "ts_full_f1": 0.5,
+        "uniform_f1": 0.643
+      },
+      {
+        "video_id": "M-3d7804786354",
+        "ts_simp_f1": 0.444,
+        "ts_full_f1": 0.519,
+        "uniform_f1": 0.444
+      },
+      {
+        "video_id": "M-3e9018bc52ea",
+        "ts_simp_f1": 0.593,
+        "ts_full_f1": 0.667,
+        "uniform_f1": 0.667
+      },
+      {
+        "video_id": "M-42198d98eb40",
+        "ts_simp_f1": 0.5,
+        "ts_full_f1": 0.5,
+        "uniform_f1": 0.5
+      },
+      {
+        "video_id": "M-720f4960f5ed",
+        "ts_simp_f1": 0.485,
+        "ts_full_f1": 0.485,
+        "uniform_f1": 0.545
+      },
+      {
+        "video_id": "M-782f8ea8c442",
+        "ts_simp_f1": 0.667,
+        "ts_full_f1": 0.667,
+        "uniform_f1": 0.667
+      },
+      {
+        "video_id": "M-84e1d947b553",
+        "ts_simp_f1": 0.56,
+        "ts_full_f1": 0.56,
+        "uniform_f1": 0.64
+      },
+      {
+        "video_id": "M-9a12ab3f34c9",
+        "ts_simp_f1": 0.377,
+        "ts_full_f1": 0.302,
+        "uniform_f1": 0.34
+      }
+    ],
+    "avg_ts_simp": 0.51575,
+    "avg_ts_full": 0.525,
+    "avg_uniform": 0.55575
+  },
+  "20": {
+    "per_video": [
+      {
+        "video_id": "M-14507b1e4eb0",
+        "ts_simp_f1": 0.842,
+        "ts_full_f1": 0.789,
+        "uniform_f1": 0.842
+      },
+      {
+        "video_id": "M-3d7804786354",
+        "ts_simp_f1": 0.757,
+        "ts_full_f1": 0.865,
+        "uniform_f1": 0.703
+      },
+      {
+        "video_id": "M-3e9018bc52ea",
+        "ts_simp_f1": 0.919,
+        "ts_full_f1": 0.919,
+        "uniform_f1": 0.757
+      },
+      {
+        "video_id": "M-42198d98eb40",
+        "ts_simp_f1": 0.783,
+        "ts_full_f1": 0.739,
+        "uniform_f1": 0.739
+      },
+      {
+        "video_id": "M-720f4960f5ed",
+        "ts_simp_f1": 0.791,
+        "ts_full_f1": 0.744,
+        "uniform_f1": 0.837
+      },
+      {
+        "video_id": "M-782f8ea8c442",
+        "ts_simp_f1": 0.95,
+        "ts_full_f1": 1.0,
+        "uniform_f1": 1.0
+      },
+      {
+        "video_id": "M-84e1d947b553",
+        "ts_simp_f1": 0.8,
+        "ts_full_f1": 0.914,
+        "uniform_f1": 0.914
+      },
+      {
+        "video_id": "M-9a12ab3f34c9",
+        "ts_simp_f1": 0.571,
+        "ts_full_f1": 0.508,
+        "uniform_f1": 0.571
+      }
+    ],
+    "avg_ts_simp": 0.801625,
+    "avg_ts_full": 0.80975,
+    "avg_uniform": 0.7953749999999999
+  }
+}

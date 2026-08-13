@@ -1,0 +1,408 @@
+{
+  "video_id": "M-443188070671",
+  "title": "M-443188070671",
+  "category": "新样本",
+  "total_seconds": 50,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "大家要的没有防",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "腐剂的面包呀",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "咱们老仓口给",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "大家做出来的",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "来看一下",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "这是咱们刚",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "刚烤出来的",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "这一款面包",
+      "composite_score": 2.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "呀咱们没",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "有香精没",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "有色素没有",
+      "composite_score": 0.2,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "反式脂肪酸",
+      "composite_score": 0.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "更重要的一",
+      "composite_score": 2.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "点它没",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "有脱氢乙酸钠",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "我们采用了",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "氮气锁鲜的技术",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "把这个面包",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "的保质期呀给大",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "家去做了延长",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "所以家里刚",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "长牙的小朋友",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "你是孕妈妈呀",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "你也可以放心大",
+      "composite_score": 7.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "胆的去食用",
+      "composite_score": 9.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "只有一个淡淡",
+      "composite_score": 9.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "的两分甜早",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "晨上班的",
+      "composite_score": 9.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "来不及做饭的",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "随手抓一包",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "放在包里到办",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "公室呀及",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "时打开及时可",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "以用来吃",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "咱们家这款面包",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "做了四代人",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "了所以姐",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "妹们如果你",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "想要尝一下",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "没有香精没有色",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "素没有反",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "式脂肪酸更",
+      "composite_score": 1.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "重要的是没有",
+      "composite_score": 1.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "防腐剂的面包",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "的今天赶快进",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "咱的直播间",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "我就在直播间里",
+      "composite_score": 6.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "给大家搬面",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "包呢进来买",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "一单吧",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-443188070671/thumbnails/t_050.jpg"
+    }
+  ]
+}

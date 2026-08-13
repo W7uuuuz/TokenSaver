@@ -1,0 +1,568 @@
+{
+  "video_id": "M-00fa7a854582",
+  "title": "M-00fa7a854582",
+  "category": "稀疏 (Sparse)",
+  "total_seconds": 70,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "",
+      "composite_score": 0.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "",
+      "composite_score": 2.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "",
+      "composite_score": 2.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "",
+      "composite_score": 0.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "",
+      "composite_score": 2.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "",
+      "composite_score": 2.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "",
+      "composite_score": 2.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "",
+      "composite_score": 1.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "",
+      "composite_score": 3.4,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "",
+      "composite_score": 2.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "",
+      "composite_score": 1.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "",
+      "composite_score": 0.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "",
+      "composite_score": 10.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "",
+      "composite_score": 2.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "",
+      "composite_score": 9.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "",
+      "composite_score": 1.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "",
+      "composite_score": 2.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "",
+      "composite_score": 1.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "",
+      "composite_score": 2.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "",
+      "composite_score": 1.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_052.jpg"
+    },
+    {
+      "second": 52,
+      "text": "",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_053.jpg"
+    },
+    {
+      "second": 53,
+      "text": "",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_054.jpg"
+    },
+    {
+      "second": 54,
+      "text": "",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_055.jpg"
+    },
+    {
+      "second": 55,
+      "text": "",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_056.jpg"
+    },
+    {
+      "second": 56,
+      "text": "",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_057.jpg"
+    },
+    {
+      "second": 57,
+      "text": "",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_058.jpg"
+    },
+    {
+      "second": 58,
+      "text": "",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_059.jpg"
+    },
+    {
+      "second": 59,
+      "text": "",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_060.jpg"
+    },
+    {
+      "second": 60,
+      "text": "",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_061.jpg"
+    },
+    {
+      "second": 61,
+      "text": "",
+      "composite_score": 6.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_062.jpg"
+    },
+    {
+      "second": 62,
+      "text": "",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_063.jpg"
+    },
+    {
+      "second": 63,
+      "text": "",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_064.jpg"
+    },
+    {
+      "second": 64,
+      "text": "",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_065.jpg"
+    },
+    {
+      "second": 65,
+      "text": "",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_066.jpg"
+    },
+    {
+      "second": 66,
+      "text": "",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_067.jpg"
+    },
+    {
+      "second": 67,
+      "text": "",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_068.jpg"
+    },
+    {
+      "second": 68,
+      "text": "",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_069.jpg"
+    },
+    {
+      "second": 69,
+      "text": "",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-00fa7a854582/thumbnails/t_070.jpg"
+    }
+  ]
+}

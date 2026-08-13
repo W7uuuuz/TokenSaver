@@ -1,0 +1,664 @@
+{
+  "video_id": "M-d012fac68e61",
+  "title": "M-d012fac68e61",
+  "category": "新样本",
+  "total_seconds": 82,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "我家卫生间",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "从来没有小飞",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "虫不是我用了",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "多厉害的杀虫",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "剂而是我有个好",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "习惯每次",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "洗完脸都用这个",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "小拖把把地",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "面的毛发水渍",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "容易擦污内",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "垢的地方都擦一",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "擦这样的家",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "住着才放心",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "这个小拖把一按",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "面板就打开了",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "加上用过的洗",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "脸巾厨房",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "湿巾就能把家",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "里的上上下下",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "都打扫一遍",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "把它用到这样再",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "扔啊洗脸巾",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "的价值才算全",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "部体现出来",
+      "composite_score": 3.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "还有一点啊选",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "洗脸巾拖把不",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "要选这种装",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "的时候需要用手卡",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "脏了需要用手",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "取这个一按",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "就可以牢牢的夹",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "住洗脸巾",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "只要不是特别厚的抹",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "布也能夹",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "的很牢固加",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "长的杆子你",
+      "composite_score": 2.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "像够不着的柜子",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "和天花板现",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "在打扫起来特",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "别的方便用",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "完就这样一按",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "抹布自己就下",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "来了用它打",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "扫卫生不脏",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_044.jpg"
+    },
+    {
+      "second": 44,
+      "text": "手而且还不",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_045.jpg"
+    },
+    {
+      "second": 45,
+      "text": "用洗抹布真",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_046.jpg"
+    },
+    {
+      "second": 46,
+      "text": "心推荐你试",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_047.jpg"
+    },
+    {
+      "second": 47,
+      "text": "试之",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_048.jpg"
+    },
+    {
+      "second": 48,
+      "text": "前四十九的时候幸",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_049.jpg"
+    },
+    {
+      "second": 49,
+      "text": "亏你没买",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_050.jpg"
+    },
+    {
+      "second": 50,
+      "text": "恭喜你赚大了",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_051.jpg"
+    },
+    {
+      "second": 51,
+      "text": "现在四十九不",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_052.jpg"
+    },
+    {
+      "second": 52,
+      "text": "要三十九不要",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_053.jpg"
+    },
+    {
+      "second": 53,
+      "text": "就连二十九",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_054.jpg"
+    },
+    {
+      "second": 54,
+      "text": "都不要到手啊",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_055.jpg"
+    },
+    {
+      "second": 55,
+      "text": "还给咱带珊瑚绒",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_056.jpg"
+    },
+    {
+      "second": 56,
+      "text": "擦布和无痕挂",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_057.jpg"
+    },
+    {
+      "second": 57,
+      "text": "钩呢这个升",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_058.jpg"
+    },
+    {
+      "second": 58,
+      "text": "级后的加布小拖",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_059.jpg"
+    },
+    {
+      "second": 59,
+      "text": "把只需要一",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_060.jpg"
+    },
+    {
+      "second": 60,
+      "text": "按就可以牢牢夹",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_061.jpg"
+    },
+    {
+      "second": 61,
+      "text": "住各种洗脸巾",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_062.jpg"
+    },
+    {
+      "second": 62,
+      "text": "和抹布狂甩",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_063.jpg"
+    },
+    {
+      "second": 63,
+      "text": "不掉可以把家",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_064.jpg"
+    },
+    {
+      "second": 64,
+      "text": "里上上下下都擦",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_065.jpg"
+    },
+    {
+      "second": 65,
+      "text": "一遍洗脸",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_066.jpg"
+    },
+    {
+      "second": 66,
+      "text": "巾用到这样再扔",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_067.jpg"
+    },
+    {
+      "second": 67,
+      "text": "它的价值才算",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_068.jpg"
+    },
+    {
+      "second": 68,
+      "text": "全部体现出",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_069.jpg"
+    },
+    {
+      "second": 69,
+      "text": "来加长的杆",
+      "composite_score": 1.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_070.jpg"
+    },
+    {
+      "second": 70,
+      "text": "子你像平时",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_071.jpg"
+    },
+    {
+      "second": 71,
+      "text": "够不到的柜子和",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_072.jpg"
+    },
+    {
+      "second": 72,
+      "text": "天花板现",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_073.jpg"
+    },
+    {
+      "second": 73,
+      "text": "在打扫起来特别",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_074.jpg"
+    },
+    {
+      "second": 74,
+      "text": "方便侧边刮",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_075.jpg"
+    },
+    {
+      "second": 75,
+      "text": "水条设计",
+      "composite_score": 7.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_076.jpg"
+    },
+    {
+      "second": 76,
+      "text": "水渍不留痕",
+      "composite_score": 7.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_077.jpg"
+    },
+    {
+      "second": 77,
+      "text": "一秒锃亮真",
+      "composite_score": 8.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_078.jpg"
+    },
+    {
+      "second": 78,
+      "text": "正为懒人设",
+      "composite_score": 8.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_079.jpg"
+    },
+    {
+      "second": 79,
+      "text": "计趁价格划",
+      "composite_score": 9.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_080.jpg"
+    },
+    {
+      "second": 80,
+      "text": "算姐妹们",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_081.jpg"
+    },
+    {
+      "second": 81,
+      "text": "赶紧冲冲冲",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-d012fac68e61/thumbnails/t_082.jpg"
+    }
+  ]
+}

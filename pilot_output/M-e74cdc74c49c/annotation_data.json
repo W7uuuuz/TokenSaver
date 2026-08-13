@@ -1,0 +1,168 @@
+{
+  "video_id": "M-e74cdc74c49c",
+  "title": "M-e74cdc74c49c",
+  "category": "新样本",
+  "total_seconds": 20,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "四十九块七是七",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "双有一",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "双是我给你们的",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "你随机拿",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "出来一双试",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "穿七天",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "七天内穿了",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "不喜欢穿了",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "不满意就算",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "是心情不好",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "其他六双",
+      "composite_score": 3.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "你直接给我退回",
+      "composite_score": 1.9,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "来这一双",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "是我送给你",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "们的你拿着就",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "行了退回来还",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "有运费险不",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "会让你们多花",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "一分一",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "毫的冤枉",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-e74cdc74c49c/thumbnails/t_020.jpg"
+    }
+  ]
+}

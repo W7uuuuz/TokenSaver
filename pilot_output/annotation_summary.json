@@ -1,0 +1,128 @@
+[
+ {
+  "video_id": "M-13ead59e0125",
+  "label": "新样本-38s",
+  "total_seconds": 38,
+  "data_path": "../pilot_output/M-13ead59e0125/annotation_data.json"
+ },
+ {
+  "video_id": "M-16ef9e2d688a",
+  "label": "新样本-91s",
+  "total_seconds": 91,
+  "data_path": "../pilot_output/M-16ef9e2d688a/annotation_data.json"
+ },
+ {
+  "video_id": "M-21dd90cdfb17",
+  "label": "新样本-31s",
+  "total_seconds": 31,
+  "data_path": "../pilot_output/M-21dd90cdfb17/annotation_data.json"
+ },
+ {
+  "video_id": "M-29b5fbaa2b08",
+  "label": "新样本-36s",
+  "total_seconds": 36,
+  "data_path": "../pilot_output/M-29b5fbaa2b08/annotation_data.json"
+ },
+ {
+  "video_id": "M-2c696f4a9877",
+  "label": "新样本-31s",
+  "total_seconds": 31,
+  "data_path": "../pilot_output/M-2c696f4a9877/annotation_data.json"
+ },
+ {
+  "video_id": "M-443188070671",
+  "label": "新样本-50s",
+  "total_seconds": 50,
+  "data_path": "../pilot_output/M-443188070671/annotation_data.json"
+ },
+ {
+  "video_id": "M-528bfe313870",
+  "label": "新样本-55s",
+  "total_seconds": 55,
+  "data_path": "../pilot_output/M-528bfe313870/annotation_data.json"
+ },
+ {
+  "video_id": "M-720f4960f5ed",
+  "label": "评测-48s-快剪",
+  "total_seconds": 48,
+  "data_path": "../pilot_output/M-720f4960f5ed/annotation_data.json"
+ },
+ {
+  "video_id": "M-782f8ea8c442",
+  "label": "口播-40s-零耦合",
+  "total_seconds": 40,
+  "data_path": "../pilot_output/M-782f8ea8c442/annotation_data.json"
+ },
+ {
+  "video_id": "M-84e1d947b553",
+  "label": "评测-46s-高密度",
+  "total_seconds": 46,
+  "data_path": "../pilot_output/M-84e1d947b553/annotation_data.json"
+ },
+ {
+  "video_id": "M-93435751b184",
+  "label": "新样本-39s",
+  "total_seconds": 39,
+  "data_path": "../pilot_output/M-93435751b184/annotation_data.json"
+ },
+ {
+  "video_id": "M-9a12ab3f34c9",
+  "label": "口播-111s-长视频",
+  "total_seconds": 111,
+  "data_path": "../pilot_output/M-9a12ab3f34c9/annotation_data.json"
+ },
+ {
+  "video_id": "M-9e447c56b729",
+  "label": "新样本-52s",
+  "total_seconds": 52,
+  "data_path": "../pilot_output/M-9e447c56b729/annotation_data.json"
+ },
+ {
+  "video_id": "M-9e5b204d4fa5",
+  "label": "新样本-39s",
+  "total_seconds": 39,
+  "data_path": "../pilot_output/M-9e5b204d4fa5/annotation_data.json"
+ },
+ {
+  "video_id": "M-9f811b808555",
+  "label": "新样本-91s",
+  "total_seconds": 91,
+  "data_path": "../pilot_output/M-9f811b808555/annotation_data.json"
+ },
+ {
+  "video_id": "M-b22d611e2038",
+  "label": "新样本-23s",
+  "total_seconds": 23,
+  "data_path": "../pilot_output/M-b22d611e2038/annotation_data.json"
+ },
+ {
+  "video_id": "M-bbf4b6261479",
+  "label": "新样本-24s",
+  "total_seconds": 24,
+  "data_path": "../pilot_output/M-bbf4b6261479/annotation_data.json"
+ },
+ {
+  "video_id": "M-d012fac68e61",
+  "label": "新样本-82s",
+  "total_seconds": 82,
+  "data_path": "../pilot_output/M-d012fac68e61/annotation_data.json"
+ },
+ {
+  "video_id": "M-e74cdc74c49c",
+  "label": "新样本-20s",
+  "total_seconds": 20,
+  "data_path": "../pilot_output/M-e74cdc74c49c/annotation_data.json"
+ },
+ {
+  "video_id": "M-f7eb95196c5f",
+  "label": "新样本-44s",
+  "total_seconds": 44,
+  "data_path": "../pilot_output/M-f7eb95196c5f/annotation_data.json"
+ },
+ {
+  "video_id": "M-fc907c66c53a",
+  "label": "新样本-40s",
+  "total_seconds": 40,
+  "data_path": "../pilot_output/M-fc907c66c53a/annotation_data.json"
+ }
+]

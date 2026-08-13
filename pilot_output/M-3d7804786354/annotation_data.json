@@ -1,0 +1,360 @@
+{
+  "video_id": "M-3d7804786354",
+  "title": "M-3d7804786354",
+  "category": "混合 (Mixed)",
+  "total_seconds": 44,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "今天给妈妈买的",
+      "composite_score": 8.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "麦巴乐钛金锅",
+      "composite_score": 8.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "到了她拿到手",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "直接用",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "不用开锅养锅了",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "这回可",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "算是省心省",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "力了随便",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "你用钢丝球刷",
+      "composite_score": 4.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "还是铁铲",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "铲因为它采用了",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "钛合金悬",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "浮粒子一体压",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "铸整个锅都",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "不粘我用面条",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "做了个测试",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "放锅里",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "干烧了三十分",
+      "composite_score": 4.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "钟锅都烧",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "干了居然一",
+      "composite_score": 5.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "点不粘",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "接着无油",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "煎蛋不粘煎",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "豆腐丝丝滑滑",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "煎鱼通",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "通不粘",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "这锅是真正的",
+      "composite_score": 5.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "没有有害涂",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "层就算",
+      "composite_score": 3.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "是硬壳花甲",
+      "composite_score": 4.5,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "也是不用担心",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "刮花锅底",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "做了黏糊糊的炒",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "年糕也",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "不用洗锅抹",
+      "composite_score": 5.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "布一擦就干净",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "而且",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "三十二厘米大",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_038.jpg"
+    },
+    {
+      "second": 38,
+      "text": "口径还能放",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_039.jpg"
+    },
+    {
+      "second": 39,
+      "text": "上蒸屉上蒸",
+      "composite_score": 3.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_040.jpg"
+    },
+    {
+      "second": 40,
+      "text": "下煮喜",
+      "composite_score": 3.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_041.jpg"
+    },
+    {
+      "second": 41,
+      "text": "欢的姐妹赶",
+      "composite_score": 3.8,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_042.jpg"
+    },
+    {
+      "second": 42,
+      "text": "紧进来瞧瞧吧",
+      "composite_score": 4.4,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_043.jpg"
+    },
+    {
+      "second": 43,
+      "text": "",
+      "composite_score": 4.2,
+      "coupling_flag": true,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-3d7804786354/thumbnails/t_044.jpg"
+    }
+  ]
+}

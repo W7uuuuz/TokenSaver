@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Token-Saver 关键帧标注</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Microsoft YaHei', 'PingFang SC', sans-serif; background: #1a1a1a; color: #ddd; height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+
+header { background: #2a2a2a; padding: 6px 14px; display: flex; align-items: center; gap: 10px; border-bottom: 2px solid #444; flex-shrink: 0; }
+header h1 { font-size: 14px; }
+header select { padding: 5px 8px; font-size: 12px; background: #333; color: #fff; border: 1px solid #555; border-radius: 3px; min-width: 190px; }
+header .stats { font-size: 11px; color: #aaa; }
+header button { padding: 5px 10px; font-size: 11px; border: none; border-radius: 3px; cursor: pointer; font-weight: bold; }
+.btn-export { background: #2ca02c; color: #fff; }
+.btn-export:hover { background: #1f7f1f; }
+.btn-batch { background: #1f77b4; color: #fff; }
+.btn-batch:hover { background: #15629c; }
+.btn-deselect { background: #7f7f7f; color: #fff; }
+.btn-deselect:hover { background: #666; }
+.badge { font-size: 11px; color: #ff7f0e; font-weight: bold; background: #2a2a2a; padding: 3px 8px; border-radius: 3px; border: 1px solid #ff7f0e; }
+.spacer { flex: 1; }
+
+.priority-section { padding: 12px; border-bottom: 1px solid #333; }
+.priority-section h3 { font-size: 12px; margin-bottom: 6px; color: #ff7f0e; }
+.prio-btns { display: flex; gap: 6px; }
+.prio-btn { flex: 1; padding: 6px 4px; font-size: 11px; font-weight: bold; border: 1px solid #555; border-radius: 3px; background: #2a2a2a; color: #aaa; cursor: pointer; }
+.prio-btn:hover { border-color: #ff7f0e; }
+.prio-btn.active { background: #ff7f0e; color: #fff; border-color: #ff7f0e; }
+
+main { flex: 1; display: flex; overflow: hidden; }
+
+.viewer { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; background: #0d0d0d; }
+.viewer .image-area { display: flex; align-items: center; justify-content: center; position: relative; flex: 1; width: 100%; }
+.viewer .frame-wrapper { position: relative; cursor: pointer; border: 4px solid transparent; border-radius: 4px; transition: border-color 0.15s; line-height: 0; }
+.viewer .frame-wrapper.selected { border-color: #2ca02c; box-shadow: 0 0 20px rgba(44, 160, 44, 0.7); }
+.viewer .frame-wrapper:hover { border-color: #999; }
+.viewer .frame-wrapper.selected:hover { border-color: #2ca02c; }
+.viewer .frame-wrapper img { display: block; max-width: 92vw; max-height: 78vh; object-fit: contain; }
+.viewer .timestamp { position: absolute; bottom: 4px; left: 4px; background: rgba(0,0,0,0.7); color: #fff; padding: 2px 8px; font-size: 16px; font-weight: bold; border-radius: 3px; }
+
+.viewer .caption-bar { display: flex; align-items: center; gap: 10px; padding: 6px 16px; background: #1a1a1a; border-top: 1px solid #333; width: 100%; flex-shrink: 0; min-height: 36px; }
+.viewer .caption-bar .tag { padding: 3px 10px; border-radius: 3px; font-size: 12px; font-weight: bold; }
+.tag-coupling { background: #d62728; }
+.tag-scene { background: #9467bd; }
+.tag-high { background: #ff7f0e; }
+.tag-low { background: #1f77b4; }
+.tag-selected { background: #2ca02c; }
+.tag-skipped { color: #888; border: 1px solid #555; }
+
+.viewer .nav-btn { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.45); color: #fff; border: none; font-size: 42px; padding: 16px 10px; cursor: pointer; border-radius: 6px; z-index: 5; }
+.viewer .nav-btn:hover { background: rgba(0,0,0,0.85); }
+.viewer .nav-prev { left: 10px; }
+.viewer .nav-next { right: 10px; }
+
+.sidebar { width: 310px; background: #222; border-left: 1px solid #444; display: flex; flex-direction: column; flex-shrink: 0; overflow-y: auto; }
+.sidebar .info-section { padding: 12px; border-bottom: 1px solid #333; }
+.sidebar h3 { font-size: 12px; margin-bottom: 6px; color: #ff7f0e; }
+.sidebar .info-row { margin-bottom: 3px; display: flex; justify-content: space-between; font-size: 12px; }
+.sidebar .info-label { color: #888; }
+.sidebar .info-val { font-weight: bold; }
+.sidebar .text-preview { background: #1a1a1a; padding: 8px; border-radius: 3px; line-height: 1.6; font-size: 12px; max-height: 150px; overflow-y: auto; }
+.sidebar .guide-section { padding: 12px; font-size: 11px; line-height: 1.7; }
+.sidebar .guide-section h3 { color: #2ca02c; margin-top: 8px; }
+.sidebar .guide-section table { width: 100%; border-collapse: collapse; margin: 6px 0; }
+.sidebar .guide-section td { padding: 3px 6px; border-bottom: 1px solid #2a2a2a; vertical-align: top; font-size: 11px; }
+.sidebar .guide-section td:first-child { color: #2ca02c; white-space: nowrap; width: 48%; }
+.sidebar .guide-section td:last-child { color: #d62728; }
+
+footer { background: #2a2a2a; border-top: 1px solid #444; flex-shrink: 0; }
+footer .filmstrip { display: flex; overflow-x: auto; padding: 4px 5px; gap: 2px; align-items: flex-end; }
+footer .filmstrip .strip-item { flex-shrink: 0; cursor: pointer; border: 2px solid transparent; border-radius: 2px; position: relative; }
+footer .filmstrip .strip-item:hover { border-color: #888; }
+footer .filmstrip .strip-item.active { border-color: #ff7f0e; box-shadow: 0 0 5px rgba(255,127,14,0.5); }
+footer .filmstrip .strip-item.selected { border-color: #2ca02c; }
+footer .filmstrip .strip-item img { display: block; height: 44px; width: auto; }
+footer .filmstrip .strip-label { position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.75); color: #fff; font-size: 7px; text-align: center; padding: 1px 0; }
+footer .filmstrip .strip-dot { position: absolute; top: 1px; right: 1px; width: 5px; height: 5px; border-radius: 50%; }
+footer .strip-dot.coupling { background: #d62728; }
+footer .strip-dot.scene { background: #9467bd; }
+footer .key-hints { display: flex; gap: 14px; padding: 3px 8px; font-size: 10px; color: #777; background: #252525; border-top: 1px solid #333; }
+footer .key-hints kbd { background: #444; padding: 1px 4px; border-radius: 2px; color: #ccc; font-size: 10px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Token-Saver 标注</h1>
+  <select id="videoSelect" onchange="loadVideo()"><option value="">-- 选择视频 --</option></select>
+  <span class="stats" id="stats">未加载</span>
+  <span class="badge" id="progressBadge" style="display:none;"></span>
+  <span class="spacer"></span>
+  <button class="btn-deselect" onclick="deselectAll()">清除</button>
+  <button class="btn-export" onclick="exportAnnotations()">导出当前</button>
+  <button class="btn-batch" onclick="exportAll()">批量导出</button>
+</header>
+
+<main>
+  <div class="viewer">
+    <div class="image-area">
+      <button class="nav-btn nav-prev" onclick="navigate(-1)">&#8249;</button>
+      <div class="frame-wrapper" id="frameWrapper" onclick="toggleCurrent()">
+        <img id="mainImage" src="" alt="">
+        <div class="timestamp" id="frameTime">0s</div>
+      </div>
+      <button class="nav-btn nav-next" onclick="navigate(1)">&#8250;</button>
+    </div>
+    <div class="caption-bar" id="captionBar"></div>
+  </div>
+
+  <div class="sidebar">
+    <div class="info-section">
+      <h3>当前帧</h3>
+      <div class="info-row"><span class="info-label">评分</span><span class="info-val" id="infoScore">-</span></div>
+      <div class="info-row"><span class="info-label">状态</span><span class="info-val" id="infoStatus" style="color:#888">未选中</span></div>
+      <div style="margin-top:6px;"><span class="info-label">文本:</span></div>
+      <div class="text-preview" id="infoText">-</div>
+    </div>
+
+    <div class="priority-section">
+      <h3>视频类型（标注前先选一次）</h3>
+      <div class="prio-btns">
+        <button class="prio-btn" data-prio="visual" onclick="setPriority('visual')">视觉主导</button>
+        <button class="prio-btn" data-prio="speech" onclick="setPriority('speech')">口播主导</button>
+        <button class="prio-btn" data-prio="balanced" onclick="setPriority('balanced')">均衡</button>
+      </div>
+      <p style="margin-top:6px;color:#888;font-size:10px;">判断依据：这个视频的信息主要靠画面呈现（演示/混剪），还是靠口播讲述（讲解/直播），还是两者相当？</p>
+    </div>
+
+    <div class="guide-section">
+      <h3>什么是关键帧？</h3>
+      <p style="color:#aaa;margin-bottom:6px;">AI只能看K张图理解视频——少了这一帧会漏掉重要信息吗？</p>
+      <p style="color:#ff7f0e;font-weight:bold;margin-bottom:6px;">⚠ 只看画面，忽略字幕/口播内容。口播再关键，画面平淡也不选。</p>
+      <table>
+        <tr><td>✓ 产品新角度/特写</td><td>✗ 同角度重复帧</td></tr>
+        <tr><td>✓ 使用演示动作</td><td>✗ 口播静止中间帧</td></tr>
+        <tr><td>✓ 价格/规格/文字</td><td>✗ 缓慢推进的中间帧</td></tr>
+        <tr><td>✓ 场景明显切换</td><td>✗ 轻微晃动的帧</td></tr>
+        <tr><td>✓ 手势/指示动作</td><td>✗ 纯说话无动作</td></tr>
+        <tr><td>✓ Before/After对比</td><td>✗ 转场过渡帧</td></tr>
+        <tr><td>✓ 首帧 + 尾帧</td><td>✗ 模糊/遮挡画面</td></tr>
+        <tr><td>✓ 动作阶段变化（开始/关键态/结果）</td><td>✗ 同一动作连续中间帧</td></tr>
+      </table>
+      <p style="margin-top:8px;color:#888;">连贯动作（3-5帧画面相近）只标1-2个代表帧，不逐帧标；画面内容真正变了才标新帧。<br>预期: 口播8-15帧 / 评测12-20帧 / 剪辑15-25帧<br>(大约每3-5秒选1帧)</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <div class="filmstrip" id="filmstrip"></div>
+  <div class="key-hints">
+    <span><kbd>&#8592;</kbd><kbd>&#8594;</kbd> 切换</span>
+    <span><kbd>Space</kbd> 选中/取消</span>
+    <span><kbd>1</kbd>-<kbd>5</kbd> 跳转</span>
+    <span><kbd>Home</kbd><kbd>End</kbd> 首/尾</span>
+    <span style="color:#2ca02c;">绿框=已选</span>
+    <span style="color:#ff7f0e;">橙框=当前</span>
+  </div>
+</footer>
+
+<script src="vendor/jszip.min.js"></script>
+<script>
+let currentData = null;
+let selectedFrames = new Set();
+let activeIdx = 0;
+let allVideos = [];          // 汇总：{video_id, label, total_seconds, data_path}
+let annotations = {};        // video_id -> Set<second>，多视频标注内存态
+let visualPriority = {};     // video_id -> 'visual'|'speech'|'balanced'
+
+const LS_PREFIX = 'ts_anno_';
+
+function loadLocal(videoId) {
+  try {
+    const raw = localStorage.getItem(LS_PREFIX + videoId);
+    if (!raw) return null;
+    const d = JSON.parse(raw);
+    if (d.visual_priority) visualPriority[videoId] = d.visual_priority;
+    return d;
+  } catch(e) { return null; }
+}
+function saveLocal(videoId) {
+  const kf = Array.from(annotations[videoId] || []).sort((a,b)=>a-b);
+  localStorage.setItem(LS_PREFIX + videoId, JSON.stringify({
+    video_id: videoId, key_frames: kf, n_key_frames: kf.length,
+    visual_priority: visualPriority[videoId] || null,
+    updated_at: new Date().toISOString(),
+  }));
+}
+function getAnnoSet(videoId) {
+  if (!annotations[videoId]) {
+    const stored = loadLocal(videoId);
+    annotations[videoId] = new Set(stored ? (stored.key_frames || []) : []);
+  }
+  return annotations[videoId];
+}
+function getPriority(videoId) { return visualPriority[videoId] || null; }
+function setPriority(p) {
+  if (!currentData) return;
+  visualPriority[currentData.video_id] = p;
+  saveLocal(currentData.video_id);
+  renderPriority();
+}
+function renderPriority() {
+  const btns = document.querySelectorAll('.prio-btn');
+  const cur = currentData ? getPriority(currentData.video_id) : null;
+  btns.forEach(b => b.classList.toggle('active', b.dataset.prio === cur));
+}
+
+async function init() {
+  try {
+    const resp = await fetch('../pilot_output/annotation_summary.json');
+    allVideos = await resp.json();
+    const sel = document.getElementById('videoSelect');
+    allVideos.forEach(v => {
+      const opt = document.createElement('option');
+      opt.value = v.data_path;
+      opt.textContent = v.label || ('[' + (v.category || '?') + '] ' + v.video_id + ' (' + v.total_seconds + 's)');
+      sel.appendChild(opt);
+    });
+    if (allVideos.length > 0) {
+      document.getElementById('videoSelect').value = allVideos[0].data_path;
+      await loadVideo();
+    }
+    updateProgress();
+  } catch(e) { console.log('No summary'); }
+}
+
+async function loadVideo() {
+  const path = document.getElementById('videoSelect').value;
+  if (!path) return;
+  // 切换前保存当前视频的标注
+  if (currentData) saveLocal(currentData.video_id);
+  try {
+    const resp = await fetch(path);
+    currentData = await resp.json();
+    selectedFrames = getAnnoSet(currentData.video_id);
+    activeIdx = 0;
+    renderPriority();
+    renderAll(); updateStats();
+  } catch(e) { alert('加载失败: ' + e.message); }
+}
+
+function renderAll() { renderViewer(); renderFilmstrip(); }
+
+function renderViewer() {
+  if (!currentData) return;
+  const sec = currentData.seconds[activeIdx];
+  if (!sec) return;
+
+  const wrapper = document.getElementById('frameWrapper');
+  wrapper.classList.toggle('selected', selectedFrames.has(sec.second));
+  document.getElementById('mainImage').src = sec.thumbnail;
+  document.getElementById('frameTime').textContent = sec.second + 's';
+
+  // Caption bar below image (not overlaying!)
+  let tags = '';
+  if (selectedFrames.has(sec.second)) {
+    tags += '<span class="tag tag-selected">✓ 关键帧</span>';
+  } else {
+    tags += '<span class="tag tag-skipped">可跳过</span>';
+  }
+  if (sec.coupling_flag) tags += '<span class="tag tag-coupling">耦合事件</span>';
+  if (sec.is_scene_boundary) tags += '<span class="tag tag-scene">场景边界</span>';
+  if (sec.composite_score >= 7) tags += '<span class="tag tag-high">高密度 '+sec.composite_score.toFixed(1)+'</span>';
+  else if (sec.composite_score <= 3) tags += '<span class="tag tag-low">低密度 '+sec.composite_score.toFixed(1)+'</span>';
+  else tags += '<span style="color:#888;font-size:12px;">评分 '+sec.composite_score.toFixed(1)+'/10</span>';
+
+  document.getElementById('captionBar').innerHTML = tags;
+
+  // Sidebar
+  document.getElementById('infoScore').textContent = sec.composite_score.toFixed(1) + ' / 10';
+  const isSel = selectedFrames.has(sec.second);
+  document.getElementById('infoStatus').textContent = isSel ? '✓ 关键帧' : '可跳过';
+  document.getElementById('infoStatus').style.color = isSel ? '#2ca02c' : '#888';
+  document.getElementById('infoText').textContent = sec.text || '(无文本)';
+}
+
+function renderFilmstrip() {
+  const strip = document.getElementById('filmstrip');
+  strip.innerHTML = '';
+  if (!currentData) return;
+
+  currentData.seconds.forEach((sec, i) => {
+    const item = document.createElement('div');
+    item.className = 'strip-item';
+    if (i === activeIdx) item.classList.add('active');
+    if (selectedFrames.has(sec.second)) item.classList.add('selected');
+    item.onclick = () => { activeIdx = i; renderAll(); updateStats(); };
+
+    const img = document.createElement('img');
+    img.src = sec.thumbnail; img.loading = 'lazy'; img.alt = 't='+sec.second;
+    const label = document.createElement('div');
+    label.className = 'strip-label'; label.textContent = sec.second;
+    item.appendChild(img); item.appendChild(label);
+
+    if (sec.coupling_flag) { const d = document.createElement('div'); d.className = 'strip-dot coupling'; item.appendChild(d); }
+    if (sec.is_scene_boundary) { const d = document.createElement('div'); d.className = 'strip-dot scene'; d.style.right = sec.coupling_flag?'10px':'2px'; item.appendChild(d); }
+
+    strip.appendChild(item);
+  });
+
+  const el = strip.querySelector('.strip-item.active');
+  if (el) el.scrollIntoView({ inline: 'center', behavior: 'smooth' });
+}
+
+function navigate(d) { if (!currentData) return; activeIdx = Math.max(0, Math.min(currentData.seconds.length-1, activeIdx+d)); renderAll(); updateStats(); }
+function toggleCurrent() {
+  if (!currentData) return;
+  const s = currentData.seconds[activeIdx].second;
+  if (selectedFrames.has(s)) selectedFrames.delete(s); else selectedFrames.add(s);
+  saveLocal(currentData.video_id);
+  renderAll(); updateStats(); updateProgress();
+}
+function deselectAll() {
+  if (!currentData) return;
+  selectedFrames = new Set();
+  annotations[currentData.video_id] = selectedFrames;
+  saveLocal(currentData.video_id);
+  renderAll(); updateStats(); updateProgress();
+}
+function buildAnno(video) {
+  const kf = Array.from(getAnnoSet(video.video_id)).sort((a,b)=>a-b);
+  return {
+    video_id: video.video_id,
+    category: video.label ? video.label.split('-')[0] : '',
+    total_seconds: video.total_seconds,
+    visual_priority: getPriority(video.video_id),
+    key_frames: kf,
+    n_key_frames: kf.length,
+    annotated_at: new Date().toISOString(),
+  };
+}
+function exportAnnotations() {
+  if (!currentData) return alert('请先选择视频');
+  const anno = buildAnno({ video_id: currentData.video_id, label: currentData.category, total_seconds: currentData.total_seconds });
+  const blob = new Blob([JSON.stringify(anno,null,2)], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = currentData.video_id+'_keyframes.json'; a.click();
+  URL.revokeObjectURL(url);
+  alert('已导出: '+anno.n_key_frames+' 个关键帧\n请将文件放入 annotations/ 目录');
+}
+async function exportAll() {
+  const done = allVideos.filter(v => getAnnoSet(v.video_id).size > 0);
+  if (done.length === 0) return alert('还没有任何视频有标注');
+  const zip = new JSZip();
+  done.forEach(v => {
+    zip.file(v.video_id + '_keyframes.json', JSON.stringify(buildAnno(v), null, 2));
+  });
+  const blob = await zip.generateAsync({ type: 'blob' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'keyframes_all_'+Date.now()+'.zip'; a.click();
+  URL.revokeObjectURL(url);
+  alert('已批量导出 '+done.length+' 个视频标注 → keyframes_all_*.zip\n请解压后将 JSON 放入 annotations/ 目录');
+}
+function updateProgress() {
+  if (!allVideos.length) return;
+  const n = allVideos.filter(v => getAnnoSet(v.video_id).size > 0).length;
+  const badge = document.getElementById('progressBadge');
+  badge.style.display = '';
+  badge.textContent = '已标注 ' + n + '/' + allVideos.length;
+}
+function updateStats() {
+  if (!currentData) return;
+  document.getElementById('stats').textContent = currentData.video_id+' | '+(activeIdx+1)+'/'+currentData.total_seconds+'s | 已选:'+selectedFrames.size;
+}
+
+document.addEventListener('keydown', function(e) {
+  if (!currentData) return;
+  if (e.key === ' ') { e.preventDefault(); toggleCurrent(); }
+  else if (e.key === 'ArrowRight') { e.preventDefault(); navigate(1); }
+  else if (e.key === 'ArrowLeft') { e.preventDefault(); navigate(-1); }
+  else if (e.key === 'Home') { e.preventDefault(); activeIdx=0; renderAll(); updateStats(); }
+  else if (e.key === 'End') { e.preventDefault(); activeIdx=currentData.seconds.length-1; renderAll(); updateStats(); }
+  else if (e.key>='1' && e.key<='5') { e.preventDefault(); activeIdx=Math.round(((parseInt(e.key)-1)/4)*(currentData.seconds.length-1)); renderAll(); updateStats(); }
+});
+
+init();
+</script>
+</body>
+</html>

@@ -1,0 +1,200 @@
+{
+  "video_id": "M-bbf4b6261479",
+  "title": "M-bbf4b6261479",
+  "category": "新样本",
+  "total_seconds": 24,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "真的好香就你",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "穿过的每一件睡",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "衣钻过的每一个被",
+      "composite_score": 4.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "窝包括你身上",
+      "composite_score": 5.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "的每一寸肌",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "肤散发出来的",
+      "composite_score": 3.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "都是它的香味",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "穿上 Luffy 洗过",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "的衣服别人会认为",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "你喷了香水其",
+      "composite_score": 3.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "实比香水还要香",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "这个白色瓶的",
+      "composite_score": 3.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "特别多的顾客都有",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "好评反馈说他",
+      "composite_score": 2.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "特别喜欢这个洗",
+      "composite_score": 4.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "衣液你要是觉得太香",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "了你就两天洗一",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "次你要是想更香",
+      "composite_score": 1.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "一点自带体香",
+      "composite_score": 2.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "的你就每天洗一次",
+      "composite_score": 2.7,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "主要是它真的可",
+      "composite_score": 3.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "以持久留香让",
+      "composite_score": 2.0,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "人心动不已",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "",
+      "composite_score": 6.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-bbf4b6261479/thumbnails/t_024.jpg"
+    }
+  ]
+}

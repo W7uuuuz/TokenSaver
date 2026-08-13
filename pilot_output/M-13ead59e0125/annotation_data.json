@@ -1,0 +1,312 @@
+{
+  "video_id": "M-13ead59e0125",
+  "title": "M-13ead59e0125",
+  "category": "新样本",
+  "total_seconds": 38,
+  "seconds": [
+    {
+      "second": 0,
+      "text": "有用是有用但",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_001.jpg"
+    },
+    {
+      "second": 1,
+      "text": "包装不能做的好看",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_002.jpg"
+    },
+    {
+      "second": 2,
+      "text": "点吗一个泥膜",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_003.jpg"
+    },
+    {
+      "second": 3,
+      "text": "棒它能给你黑头",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_004.jpg"
+    },
+    {
+      "second": 4,
+      "text": "出来出来就",
+      "composite_score": 7.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_005.jpg"
+    },
+    {
+      "second": 5,
+      "text": "不错了那包",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_006.jpg"
+    },
+    {
+      "second": 6,
+      "text": "装好看的一瓶不",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_007.jpg"
+    },
+    {
+      "second": 7,
+      "text": "得卖你一二百啊你",
+      "composite_score": 4.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_008.jpg"
+    },
+    {
+      "second": 8,
+      "text": "看它这个才什么价",
+      "composite_score": 7.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_009.jpg"
+    },
+    {
+      "second": 9,
+      "text": "我是已经打卡了一个",
+      "composite_score": 3.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_010.jpg"
+    },
+    {
+      "second": 10,
+      "text": "半月这一管都用",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_011.jpg"
+    },
+    {
+      "second": 11,
+      "text": "完了我才知道它",
+      "composite_score": 5.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_012.jpg"
+    },
+    {
+      "second": 12,
+      "text": "是怎么有底气把它能",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_013.jpg"
+    },
+    {
+      "second": 13,
+      "text": "干啥直接写在包",
+      "composite_score": 2.5,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_014.jpg"
+    },
+    {
+      "second": 14,
+      "text": "装上了而且它用",
+      "composite_score": 4.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_015.jpg"
+    },
+    {
+      "second": 15,
+      "text": "起来啊就很方",
+      "composite_score": 5.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_016.jpg"
+    },
+    {
+      "second": 16,
+      "text": "便用之前先拿清水",
+      "composite_score": 3.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_017.jpg"
+    },
+    {
+      "second": 17,
+      "text": "洗一下脸然后擦",
+      "composite_score": 4.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_018.jpg"
+    },
+    {
+      "second": 18,
+      "text": "干就涂在长黑",
+      "composite_score": 2.8,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_019.jpg"
+    },
+    {
+      "second": 19,
+      "text": "头闭口的地",
+      "composite_score": 5.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_020.jpg"
+    },
+    {
+      "second": 20,
+      "text": "方就行了它里面仁二",
+      "composite_score": 6.3,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_021.jpg"
+    },
+    {
+      "second": 21,
+      "text": "酸水杨酸直",
+      "composite_score": 5.9,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_022.jpg"
+    },
+    {
+      "second": 22,
+      "text": "接钻进毛孔帮咱",
+      "composite_score": 6.6,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_023.jpg"
+    },
+    {
+      "second": 23,
+      "text": "们溶解黑头",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_024.jpg"
+    },
+    {
+      "second": 24,
+      "text": "因为泥高岭土就在外",
+      "composite_score": 6.8,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_025.jpg"
+    },
+    {
+      "second": 25,
+      "text": "面吸附打",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_026.jpg"
+    },
+    {
+      "second": 26,
+      "text": "包敷完之后等五",
+      "composite_score": 6.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_027.jpg"
+    },
+    {
+      "second": 27,
+      "text": "分钟直接水洗",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_028.jpg"
+    },
+    {
+      "second": 28,
+      "text": "看洗完之后脸",
+      "composite_score": 6.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_029.jpg"
+    },
+    {
+      "second": 29,
+      "text": "上就非常干",
+      "composite_score": 5.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_030.jpg"
+    },
+    {
+      "second": 30,
+      "text": "净像每个毛孔都",
+      "composite_score": 6.0,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_031.jpg"
+    },
+    {
+      "second": 31,
+      "text": "会呼吸了一样如",
+      "composite_score": 5.4,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_032.jpg"
+    },
+    {
+      "second": 32,
+      "text": "果你像我之前那样",
+      "composite_score": 4.7,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_033.jpg"
+    },
+    {
+      "second": 33,
+      "text": "脸上就跟倒插一",
+      "composite_score": 2.3,
+      "coupling_flag": false,
+      "is_scene_boundary": true,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_034.jpg"
+    },
+    {
+      "second": 34,
+      "text": "样到处坑花了",
+      "composite_score": 4.1,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_035.jpg"
+    },
+    {
+      "second": 35,
+      "text": "那你就赶紧安排上",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_036.jpg"
+    },
+    {
+      "second": 36,
+      "text": "这个真的就是早买",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_037.jpg"
+    },
+    {
+      "second": 37,
+      "text": "早享受",
+      "composite_score": 3.2,
+      "coupling_flag": false,
+      "is_scene_boundary": false,
+      "thumbnail": "../pilot_output/M-13ead59e0125/thumbnails/t_038.jpg"
+    }
+  ]
+}
